@@ -1,6 +1,6 @@
 /*
  * File: 100-print_python_list_info.c
- * Auth: Brennan D Baraban
+ * Auth: Adefemi Oreyomi
  */
 
 #include <Python.h>
